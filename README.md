@@ -3,7 +3,7 @@
 
 ## Prerequisites
 
-To use this component, you must install the [Mystic Light Server](https://github.com/and7ey/mystic-light-ha-app) on your Windows PC.
+To use this component, you must install the [Mystic Light Server](https://github.com/and7ey/mystic_light_ha_app) on your Windows PC.
 
 ## Limitations
 
