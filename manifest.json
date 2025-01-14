@@ -1,0 +1,13 @@
+{
+  "domain": "mystic_light",
+  "name": "MSI Mystic Light",
+  "codeowners": ["@and7ey"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/and7ey/mystic_light",
+  "homekit": {},
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/and7ey/mystic_light/issues",
+  "requirements": ["requests"],
+  "version": "0.0.2"
+}
