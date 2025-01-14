@@ -5,6 +5,15 @@
 
 To use this component, you must install the [Mystic Light Server](https://github.com/and7ey/mystic_light_ha_app) on your Windows PC.
 
+## Setup
+
+Add an IP of your PC to `configuration.yaml`:
+```
+light:
+  - platform: mystic_light
+    host: '192.168.1.15'
+```
+
 ## Limitations
 
 Please note the following restrictions:
@@ -16,8 +25,8 @@ Please note the following restrictions:
 ## Troubleshooting
 
 To gain more insight into potential issues, enable component logging:
-logger:
 ```
+logger:
   default: warning
   logs:
     custom_components.mystic_light: debug
